@@ -34,3 +34,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#webstorm
+vcs.xml
+Project_Default.xml
+portfolio-next-app.iml
+modules.xml

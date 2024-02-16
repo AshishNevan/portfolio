@@ -1,4 +1,4 @@
-"use client";
+// "use client";
 import Image from "next/image";
 
 export function Card(props: { icon: string; title: string; desc: string; content: string; }) {
