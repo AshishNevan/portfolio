@@ -1,0 +1,17 @@
+.navbar {
+    background-color: #000000;
+    color: #F9F9F9;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.navbar a:hover {
+    color: #ccc;
+    cursor: pointer;
+}
+
+.navbar .logo {
+    font-size: 24px;
+    font-weight: bold;
+}
