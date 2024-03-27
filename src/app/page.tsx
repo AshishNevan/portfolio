@@ -7,6 +7,8 @@ export default function Page() {
                   desc="This website right here."/>
             <Card content="https://www.google.com" icon={"/portfolio/tensorflow-icon.svg"} title="Rock Paper Scissors"
                   desc="Rock paper scissors AI player."/>
+            <Card content="https://www.google.com" icon={"/portfolio/python-icon.svg"} title="Music Recommender"
+                  desc="Music genre classifer and recommender using Machine Learning."/>
             <Card content="https://www.google.com" icon={"/portfolio/python-icon.svg"} title="Amazon Recommender"
                   desc="Amazon electronics recommender using Machine Learning."/>
             <Card content="https://ashishnevan.github.io/PigGame/" icon={"/portfolio/javascript.svg"} title="Pig Game"
